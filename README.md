@@ -15,6 +15,6 @@ Comparar interfaces bem projetadas e problemáticas, demonstrando na prática a 
 Com a evolução de aplicativos e sites, as interfaces digitais passaram a incorporar princípios da psicologia e da interação humano–computador, visando experiências mais eficientes, acessíveis e intuitivas. Nesse contexto, a cartilha auxilia na identificação e compreensão de interfaces bem ou mal projetadas.
 
 ## 👨‍💻👩‍💻 Equipe
-- Nome do integrante 1  
-- Nome do integrante 2  
-- Nome do integrante 3  
+- Hellen Vitória Santana de Souza
+- Nereu Vítor Pereira Lima  
+- Emanoel Victor Rocha Bezerra 
