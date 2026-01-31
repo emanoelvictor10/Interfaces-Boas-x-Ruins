@@ -17,4 +17,6 @@ Com a evolução de aplicativos e sites, as interfaces digitais passaram a incor
 ## 👨‍💻👩‍💻 Equipe
 - Hellen Vitória Santana de Souza
 - Nereu Vítor Pereira Lima  
-- Emanoel Victor Rocha Bezerra 
+- Emanoel Victor Rocha Bezerra
+   
+Projeto de Interface e Experiência do Usuário 2025.2 - Sistemas Para Internet
